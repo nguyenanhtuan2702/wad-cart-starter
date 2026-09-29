@@ -1,5 +1,9 @@
 # SELF_ASSESSMENT_REPORT.md
 
+- **Student Name:** Nguyễn Anh Tuấn
+- **Student ID:** 23120184
+- **Self-assessed Total:** 100/100
+
 | Criterion | Mark | Evidence |
 |---|---:|---|
 | 1. cartTotal behaves as specified | 30/30 | `src/cart.js`; `npm test` passed 6/6. Tests cover the worked example returning 467400, empty cart returning 0, free shipping at the threshold, negative price throwing RangeError, and invalid quantity throwing RangeError. |
